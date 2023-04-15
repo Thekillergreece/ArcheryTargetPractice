@@ -1,4 +1,4 @@
-# ArcheryTargetPractice
+# Archery Target Practice
 ![ArcheryPractice](https://user-images.githubusercontent.com/95387832/231845074-cfc55291-4c60-4ebc-8255-dda728df71f4.jpg)
 
 A target for you to level up your archery skills a bit.
